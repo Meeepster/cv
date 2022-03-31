@@ -1,0 +1,73 @@
+div {
+    background-color: lightblue;
+}
+h1{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    width: 15%;
+    margin: 0 auto;
+}
+body{
+    margin: 0;
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Merriweather', Tahoma, Arial, sans-serif;
+}
+
+.top-container{
+}
+
+.middle-container{
+    background-color: lightblue;
+
+}
+
+.bottom-container{
+    background-color: green;
+    margin-bottom: 20px;
+}
+
+.percent-15{
+    width: 15%;
+    margin: 0 auto;
+}
+
+.bottom-cloud{
+    position:absolute;
+    top: 150px;
+    left: 700px;
+}
+
+.top-cloud{
+    position:relative;
+    left: 200px;
+    margin-top: 50px;
+}
+
+.lurk{
+    position: relative;
+    top: 5px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 0;
+}
+
+.hype{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 300px;
+    top: 500px;
+}
+
+.love{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 300px;
+    top: 760px;
+}
+
+.talking-to-ppl{
+    margin-top: 50px;
+}
